@@ -1,0 +1,47 @@
+#define IR 3
+#define BTN 4
+
+uint32_t c[]={
+0x20DF10EF,
+0x10EF58A7,
+0xE0E040BF,
+0xA90,
+0xF80702FD,
+0x807F02FD,
+0x4CB340BF
+};
+
+void on(){TCCR0A|=(1<<COM0A0);}
+void off(){TCCR0A&=~(1<<COM0A0);digitalWrite(IR,0);}
+
+void m(int t){on();delayMicroseconds(t);}
+void s(int t){off();delayMicroseconds(t);}
+
+void nec(uint32_t d){
+m(9000);s(4500);
+for(int i=0;i<32;i++){
+m(560);
+if(d&1)s(1690);else s(560);
+d>>=1;
+}
+m(560);s(40000);
+}
+
+void setup(){
+pinMode(IR,1);
+pinMode(BTN,2);
+TCCR0A=(1<<COM0A0)|(1<<WGM01)|(1<<WGM00);
+TCCR0B=(1<<WGM02)|(1<<CS00);
+OCR0A=104;
+}
+
+void loop(){
+if(!digitalRead(BTN)){
+unsigned long t=millis();
+while(millis()-t<3000){
+for(int i=0;i<7;i++)nec(c[i]);
+}
+while(!digitalRead(BTN));
+delay(200);
+}
+}
