@@ -9,7 +9,7 @@ Here is my parts list
   | #  | Part              | Value / Description        | Package | Manufacturer    | LCSC #    | Buy Link                                                                                                    |
 | -- | ----------------- | -------------------------- | ------- | --------------- | --------- | ----------------------------------------------------------------------------------------------------------- |
 | 1  | Resistor          | 22Ω ±1% 100mW              | 0603    | UNI-ROYAL       | C23345    | 🔗 [https://www.lcsc.com/product-detail/C23345.html](https://www.lcsc.com/product-detail/C23345.html)       |
-| 2  | Resistor          | 68Ω (HPCR0402)             | 0402    | RESI            | C365043   |                                                                                            |
+| 2  | Resistor          | 68Ω (HPCR0402)             | 0402    | RESI            | C365043   |            backordered                                                                                |
 | 3  | USB-C Connector   | USB Type-C Receptacle, 16P | SMD     | Korean Hroparts | C165948   | 🔗 [https://www.lcsc.com/product-detail/C165948.html](https://www.lcsc.com/product-detail/C165948.html)     |
 | 4  | Li-ion Charger IC | TP4056                     | ESOP-8  | JSMSEMI         | C22470410 | 🔗 [https://www.lcsc.com/product-detail/C22470410.html](https://www.lcsc.com/product-detail/C22470410.html) |
 | 5  | Microcontroller   | ATtiny85-20SU              | SOIC-8  | Microchip       | C2693737  | 🔗 [https://www.lcsc.com/product-detail/C2693737.html](https://www.lcsc.com/product-detail/C2693737.html)   |
