@@ -1,8 +1,11 @@
 My project is A device that can turn off any kind of tv so that I can go around my house and turn off the tv's to mess around with my family 
 I made this because I thought it would be a fun way to expand my knowledge on electronics and have fun ! :)
+<img width="898" height="829" alt="Screenshot 2026-01-28 214442" src="https://github.com/user-attachments/assets/fbf626d5-2c52-4a62-b983-c595f17d638e" />
+
 <img width="1153" height="553" alt="Screenshot 2026-01-26 230609" src="https://github.com/user-attachments/assets/491e65bd-d589-41ed-b4bc-6f0e5179deeb" />
 <img width="1455" height="703" alt="Screenshot 2026-01-26 230618" src="https://github.com/user-attachments/assets/b2f1ad6b-ff30-4dd9-bb0c-d120f4f992bd" />
 
+<img width="898" height="829" alt="Screenshot 2026-01-28 214442" src="https://github.com/user-attachments/assets/fbf626d5-2c52-4a62-b983-c595f17d638e" />
 
 
 Here is my parts list 
