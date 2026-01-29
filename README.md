@@ -2,9 +2,10 @@ My project is A device that can turn off any kind of tv so that I can go around 
 I made this because I thought it would be a fun way to expand my knowledge on electronics and have fun ! :)
 <img width="898" height="829" alt="Screenshot 2026-01-28 214442" src="https://github.com/user-attachments/assets/fbf626d5-2c52-4a62-b983-c595f17d638e" />
 
-<img width="1153" height="553" alt="Screenshot 2026-01-26 230609" src="https://github.com/user-attachments/assets/491e65bd-d589-41ed-b4bc-6f0e5179deeb" />
+<img width="1251" height="631" alt="Screenshot 2026-01-28 222013" src="https://github.com/user-attachments/assets/12af61ea-a975-4534-9a10-7eb009e850f9" />
 
-<img width="1455" height="703" alt="Screenshot 2026-01-26 230618" src="https://github.com/user-attachments/assets/b2f1ad6b-ff30-4dd9-bb0c-d120f4f992bd" />
+<img width="982" height="438" alt="Screenshot 2026-01-28 221952" src="https://github.com/user-attachments/assets/cb15af0c-6067-48f3-b9ba-af5fcfe83e5d" />
+
 
 
 
