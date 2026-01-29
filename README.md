@@ -6,6 +6,8 @@ I made this because I thought it would be a fun way to expand my knowledge on el
 
 <img width="982" height="438" alt="Screenshot 2026-01-28 221952" src="https://github.com/user-attachments/assets/cb15af0c-6067-48f3-b9ba-af5fcfe83e5d" />
 
+<img width="946" height="619" alt="Screenshot 2026-01-28 214519" src="https://github.com/user-attachments/assets/a7d47f07-4fb9-41cb-83b1-bfca582a7c9c" />
+
 
 
 
