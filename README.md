@@ -1,5 +1,5 @@
 My project is A device that can turn off any kind of tv so that I can go around my house and turn off the tv's to mess around with my family 
-I made this because I thought it would be a fun way to expand my knowledge on electronics and have fun ! :)  also, somehow idk how, i ended up making this thing the size of 2 AAA batterys side by side        and here is the link for the ali express battery's 
+I made this because I thought it would be a fun way to expand my knowledge on electronics and have fun ! :)  also, somehow idk how, i ended up making this thing the size of 2 AAA batterys side by side, this thing will work by flashing ir tv power off signals when ever the power switch is turned on it should only take a few seconds to turn off any tvi had made this because i wanted something easy fun and cool to make as a kind of first project :)        and here is the link for the ali express battery's 
 https://www.aliexpress.us/item/3256806148344933.html?gatewayAdapt=glo2usa4itemAdapt        x3 = ~$33
 <img width="898" height="829" alt="Screenshot 2026-01-28 214442" src="https://github.com/user-attachments/assets/fbf626d5-2c52-4a62-b983-c595f17d638e" />
 
